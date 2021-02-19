@@ -10,7 +10,7 @@ My goals with this project are:
     > Practice GIT and GitHub commands
     > Famialiarize my self with Linux, command line and VSCode enviroment
 
-Probably no-one but me will ever read this, but in case you are, thank you for taking your time to read this and kind of feedback you might give me.
+Probably no-one but me will ever read this, but in case you are reading it, thank you. If you have any kind of feedback let me know.
 
 d4niel j
 d4niel.djm@gmail.com
