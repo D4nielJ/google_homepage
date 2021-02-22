@@ -1,19 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
+        <title>Google</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fitno">
         <link rel="stylesheet" type="text/css" href="css/reset.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="css/style.css" media="screen"/>
-        <title>Google</title>
     </head>
     <body>
 
         <!-- navbar (not sure if nav or header tags are being use correctly) -->
         <header>            
-            <nav>
-                <a href="#" alt=""><span>Gmail</span></a>
-                <a href="#" alt=""><span>Images</span></a>
-                <a href="#" alt=""><img src="#" alt="Google Apps"></a>
-                <button class="button sign-in">Sign in</button>
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li><a href="#" alt="">Gmail</a></li>
+                    <li><a href="#" alt="" class="padding-right-15">Images</a></li>
+                    <li><a href="#" alt="" class="google-apps"></a></li>
+                    <li><a href="#" alt="" class="button sign-in">Sign in</a></li>
+                </ul>
             </nav>
         </header>
         
@@ -24,7 +28,7 @@
             <form name="Search">
                 <input type="text" name="Search" value="Zoom-Icon">
                 <input type="submit" name="Search" value="Google Search">
-                <input type="submit" name="Search" value="I'm feeling lucky">        
+                <input type="submit" name="Search" value="I'm feeling lucky">
             </form>
         </main>
 
